@@ -1,4 +1,4 @@
-package com.bt.maven.java.project;
+ package com.bt.maven.java.project;
 
 /**
  * Hello world!
